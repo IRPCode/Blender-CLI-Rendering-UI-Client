@@ -131,7 +131,7 @@ This is what the program will look like.
 
 </div>
 
-- Finally, you can take a look at your rendered image!
+- Once completed, you can take a look at your rendered image!
 
 <div align="center">
 
